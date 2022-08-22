@@ -20,7 +20,7 @@ This project is a landing page of a dance artist. It is a purely responsive desi
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Vercel*  **[ClickMe]()** 
+- Deployed on *Vercel*  **[ClickMe](https://dance-arts.vercel.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
