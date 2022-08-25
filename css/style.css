@@ -219,3 +219,75 @@ body{
 .first-circle{
     background-color:#333333
 }
+
+
+/* ************************************
+************************************
+*** Tablet Responsive *****
+************************************
+************************************ */
+
+/* media query for ipad Air */
+@media (max-width:820px){
+   .horizantal-line{
+    width: 350px;
+   }
+    .list-items{
+        display: flex;
+        white-space: nowrap;
+    }
+    .check-btn{
+        white-space: nowrap;
+        margin-top: 80px;
+    }
+    .social-icons{
+        position: absolute;
+        left: 230px;
+    }
+    .vert-line{
+        height: 600px;
+    }
+    .dots{
+        margin-top: -25px;
+    }
+
+    .circles{
+        background-color: #acacac;
+        height: 15px;
+        width: 15px;
+        border-radius: 30px;
+        margin-bottom: 55px;
+        margin-left: 12px;
+        margin-top: 20px;
+    }
+    
+    .first-circle{
+        background-color:#333333
+    }
+    .skills-items{
+        margin-top: 120px;
+    }
+    .skill-item{
+        margin-bottom: 70px;
+        white-space: nowrap;
+    }
+
+    .small-part{
+      margin-bottom: 200px;
+    }
+    .quote{
+        width: 60px;
+    }
+
+    .bot-para{
+        font-size: 20px;
+    }
+    .dance-pic{
+        width: 500px;
+        height: 300px;
+    }
+    .arrow{
+        margin-top: 400px;
+    }
+}
+
