@@ -291,3 +291,80 @@ body{
     }
 }
 
+@media  screen and (max-width:320px) {
+    .top-logo{
+        width: 200px;
+    }
+    .horizantal-line{
+        visibility: hidden;
+    }
+    
+    .list-items{
+        position: relative;
+        top: 10px;
+        left: -200px;
+        border: 2px solid black;
+    }
+    .list-item{
+        font-size: 30px;
+    }
+    .skills{
+        margin-top: 790px;
+        margin-left: -90px;
+        font-size: 40px;
+    }
+    .small-part{
+        position: relative;
+        top: 10px;
+        left: -480px;
+    }
+    .quote{
+        margin-top: 30px;
+    }
+    .bot-para{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .dance-pic{
+        margin-top: 30px;
+        width:800px;
+        height:400px;
+    }
+    .girl-dance{
+        position: absolute;
+        top: 1400px;
+        left: 500px;
+        width: 400px;
+    }
+    .arrow{
+        position: relative;
+        left: -1040px;
+        top: 1000px;
+    }
+    .vert-line{
+        position: relative;
+        top: 940px;
+        left: -70px;
+        
+    }
+    .circles{
+        margin-bottom: 80px;
+    }
+    .part-top{
+        margin-top: 100px;
+        margin-left: -40px;
+    }
+    .heading-top{
+        font-size: 160px;
+    }
+    .heading-bot{
+        font-size: 120px;
+    }
+    .descp-para{
+        font-size: 40px;
+    }
+    .check-btn{
+        font-size: 25px;
+        margin-right: 30px;
+    }
+}

@@ -6,7 +6,7 @@
 ![ImageThumbnail](./14.png)
 ***
 ### Project details
-This project is a landing page of a dance artist. It is a purely responsive design , created for Desktop  and tablet usage. Only UI is developed for this project for this project, functionality is not .
+This project is a landing page of a dance artist. It is a purely responsive design , created for Desktop, mobile  and tablet usage. Only UI is developed for this project for this project, functionality is not .
 
 
 ***
